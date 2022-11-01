@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="LSPosed-MagiskOnWSA_-_2022-02-16_19-44-37.bundle" source="original">
+    <mtime>1645120378</mtime>
+    <size>21234692</size>
+    <md5>634e8aea72545bff89acce56b95e2fd3</md5>
+    <crc32>d3decef3</crc32>
+    <sha1>0d9ec8e427253d9c04f30d4934ecdb883e1fb514</sha1>
+    <format>Unknown</format>
+    <viruscheck>1645120795</viruscheck>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1645120450</mtime>
+    <size>4184</size>
+    <md5>e18bf13527944928232c40a6dd5599c9</md5>
+    <crc32>51641708</crc32>
+    <sha1>a38aafc5f399bd27cde3e316c499802052f2be53</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover.jpg" source="original">
+    <mtime>1645120390</mtime>
+    <size>8746</size>
+    <md5>a18b5ad0a2de2ea70685d03a53084bea</md5>
+    <crc32>fd699033</crc32>
+    <sha1>2ca8709100165d34ee0f6e60878ece712d209e63</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="cover_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>cover.jpg</original>
+    <mtime>1645120822</mtime>
+    <size>5612</size>
+    <md5>2efa307b102c216ba30025f5e2362e2d</md5>
+    <crc32>d1b1729c</crc32>
+    <sha1>e6e8de2a2cc9f1f8b53e88ac0521bff3682670b8</sha1>
+  </file>
+  <file name="github.com-LSPosed-MagiskOnWSA_-_2022-02-16_19-44-37_archive.torrent" source="metadata">
+    <btih>6be38f30d90f60d8faa3663c3b4329eafef24495</btih>
+    <mtime>1645122665</mtime>
+    <size>3313</size>
+    <md5>d0201dc96f20baefdf261e9282483f33</md5>
+    <crc32>d86b5e74</crc32>
+    <sha1>d9ae6c276ddf4d28d71fa248cf2cf1c0f364087f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="github.com-LSPosed-MagiskOnWSA_-_2022-02-16_19-44-37_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5ed30959732440ae55b69fe25439cb2d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="github.com-LSPosed-MagiskOnWSA_-_2022-02-16_19-44-37_meta.sqlite" source="original">
+    <mtime>1645120412</mtime>
+    <size>40960</size>
+    <md5>51a7e8a1944d82e613e0436d1178eb42</md5>
+    <crc32>d5c03c16</crc32>
+    <sha1>6c012ce1c8b444a5ee2cf94f43ca6144089b0dfc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="github.com-LSPosed-MagiskOnWSA_-_2022-02-16_19-44-37_meta.xml" source="original">
+    <mtime>1645122663</mtime>
+    <size>10814</size>
+    <md5>beaaaa7486503382d3842681a3543f46</md5>
+    <crc32>8595a67e</crc32>
+    <sha1>3623b78a46da57c09d9d06ba6d195c08396cd417</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
